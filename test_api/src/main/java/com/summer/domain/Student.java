@@ -11,4 +11,5 @@ public class Student {
     private Integer id;
     private String idcard;
     private Integer qqq;
+    private String sex;
 }
